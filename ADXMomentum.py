@@ -7,7 +7,7 @@ import talib.abstract as ta
 # docker compose run --rm freqtrade hyperopt `
 # --strategy ADXMomentum `
 # --hyperopt-loss SharpeHyperOptLoss `
-# --config user_data/config_2.json `
+# --config user_data/config.json `
 # --timerange 20230101-20250907 `
 # --spaces roi stoploss `
 # --epochs 100
